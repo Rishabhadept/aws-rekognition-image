@@ -1,6 +1,6 @@
 # aws-rekognition-image
 
-Java Project on AWS Recognition for image analysis to detect labels, Faces , text and celebrity in a Image. Also comparing 2 Images.
+Java Project on AWS Recognition for image analysis to detect labels, Faces , text and celebrity in an Image. Also comparing 2 Images.
 
 The code samples are available in AWS official documentation and necessary changes were done as per Requirement.
 
